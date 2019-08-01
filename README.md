@@ -6,9 +6,9 @@
 
 ## <a name="top">Contents:
 * [Technologies Learned](#techs-learn)
-* [Comet Training Notebooks](#comet-train-notebooks)
-* [Notebooks for Fun](#notebooks-for-fun)
-
+* [Comet Training Notebooks](#train-notebooks)
+* [Student Notebook Projects](#student-notebooks)
+* [Deferred Notebooks](#deferred-notebooks)
 
 ## Technologies Learned <a name="techs-learn"></a>
 * Python
@@ -31,19 +31,25 @@
     * TBD
   
 
-## Comet Training Notebooks <a name="comet-train-notebooks"></a>
+## Student Notebooks Projects <a name="student-notebooks"></a>
+* Josh - Working with Pandas
+* Shayda - Accessing Data Inside and Plotting FITS Files
+* Alisha - 
+* Ryan - 
+
+## Training Notebooks/Pages <a name="train-notebooks"></a>
+* Boring Python (CH 1-?)
 * Using GitHub
 * Logging onto Comet
-* Basic Linux
 * Howto Run Interactive Notebooks on Comet:
   * SSH connection
   * JupyterHub Spawn
+
+
+## DEFERRED Notebooks <a name="deferred-notebooks"></a>
+* Basic Linux
 * Howto Run Jobs on Comet
   * Compling and Linking
   * MPI Jobs 
   * OPENMP Jobs
   * GPU Jobs
-
-## Notebooks for Fun <a name="notebooks-for-fun"></a>
-* Josh - Working with Pandas
-* Shayda - Accessing Data Inside and Plotting FITS Files
