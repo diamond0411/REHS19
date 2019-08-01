@@ -15,7 +15,8 @@
 * Code development:
   * Languages: Python, Java
   * Atom (code dev env)
-  * GitHub repositories (see: https://github.com/sdsc/sdsc-summer-institute-2019/blob/master/0_preparation/getting_started/using_github.md)
+  * GitHub repositories: 
+  [Summer Institute 2019](https://github.com/sdsc/sdsc-summer-institute-2019/blob/master/0_preparation/getting_started/using_github.md)
 * Web Architecture
 * HPC Architectures
 * Jupyter 
@@ -29,7 +30,9 @@
     * Pandas (data)
     * Dashboard
     * TBD
+    
 [Back to Top](#top)  
+
 
 ## Student Notebooks Projects <a name="student-notebooks"></a>
 * Josh - Working with Pandas
