@@ -34,7 +34,7 @@
 [Back to Top](#top)  
 
 
-## Student Notebooks Projects <a name="student-notebooks"></a>
+## Student Notebook Projects <a name="student-notebooks"></a>
 * Josh - Working with Pandas
 * Shayda - Accessing Data Inside and Plotting FITS Files
 * Alisha - 
