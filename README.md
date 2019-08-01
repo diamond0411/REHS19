@@ -44,7 +44,7 @@
 
 
 ## Training Notebooks/Pages <a name="train-notebooks"></a>
-* Boring Python (CH 1-?)
+* Boring Python (Part 1: CH 1-6) 
 * Using GitHub
 * Logging onto Comet
 * Howto Run Interactive Notebooks on Comet:
