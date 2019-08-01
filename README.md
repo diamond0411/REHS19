@@ -46,3 +46,4 @@
 
 ## Notebooks for Fun <a name="notebooks-for-fun"></a>
 * Josh - Working with Pandas
+* Shayda - Accessing Data Inside and Plotting FITS Files
