@@ -2,7 +2,7 @@
 ## Repository for the REHS 2019 Team
 
 #  Material for  SDSC HPC Training
-## July 2019
+## April-June 2019
 
 ## <a name="top">Contents:
 * [Technologies Learned](#techs-learn)
