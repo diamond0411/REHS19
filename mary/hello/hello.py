@@ -1,13 +1,11 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
 
 # Define a function
 def world(name):
-   print("Hello, " + name) 
+   print("Hi There from module: " + name) 
 
-def greeting(name):
-   print("Greetings, " + name)
+def greetings(name):
+   print("Greetings from module:  " + name)
 
